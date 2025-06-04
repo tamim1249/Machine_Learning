@@ -10,7 +10,7 @@ This repository is where I document everything I'm learning about Machine Learni
 
 | Topic                   | Status          | Notes |
 |-------------------------|------------------|-------|
-| ✅ Python Basics         | Completed        | Variables, loops, functions, OOP |
+| ✅ Python Basics         | Completed        | Variables, loops, functions, OOP 
 | ✅ NumPy                 | Completed        | Arrays, numerical ops |
 | ✅ Pandas                | Completed        | DataFrames, filtering, grouping |
 | ✅ Matplotlib, Seaborn   | Completed        | Visualization |
@@ -108,8 +108,8 @@ Machine-Learning/
 - Country: 🇧🇩 Bangladesh  
 - Skills: Python, C++, Java, Flask  
 - Interests: Machine Learning, Software Engineering, Research  
-- Contact: [Add LinkedIn/GitHub link here]
-
+- Contact:[ [Add LinkedIn/GitHub link here]
+](https://www.linkedin.com/in/tamim-mahmud91437/)
 ---
 
 > ⭐ *Follow along my journey — feedback & collaboration always welcome!*
