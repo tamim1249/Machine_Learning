@@ -14,10 +14,10 @@ This repository is my personal notebook documenting everything I’m learning ab
 | ✅ Pandas               | Completed      | DataFrames, filtering, grouping   |
 | ✅ Matplotlib, Seaborn  | Completed      | Data visualization techniques     |
 | ✅ Linear Regression    | Completed      | Supervised learning, evaluation   |
-| 🔄 Logistic Regression  | In Progress    | Binary classification             |
-| ⏳ Decision Tree        | Coming Soon    | Tree-based model                  |
-| ⏳ Random Forest        | Coming Soon    | Ensemble learning                 |
-| ⏳ KNN, SVM, KMeans, PCA| Upcoming       | Core ML models                    |
+| 🔄 Logistic Regression  | Completed      | Binary classification             |
+| ⏳ Decision Tree        | Completed      | Tree-based model                  |
+| ⏳ Random Forest        | Completed      | Ensemble learning                 |
+| ⏳ KNN, SVM             | Completed      | Core ML models                    |
 
 ---
 
